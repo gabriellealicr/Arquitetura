@@ -14,9 +14,11 @@ Tendo conhecimento com Java básico, eu utilizaria o Java para backend e aplica�
 #FrameWORKS e Plataformas de Aplicação -JavaScript
 >JQuery<
 É uma biblioteca muito útil para simplificar os códigos de JavaScript. Numa empresa, é importante o uso de bibliotecas que ajudam a melhorar códigos pois se trabalha em equipe, e é de certa importância o entendimento de códigos, para facilitar no dia a dia.
+
 >React<
 Com um grande crescimento nas empresas e no mundo, o React é usado para ajudar a criar aplicativos da web em pequena ou larga escala, principalmente em interfaces interativas.
 Ele usa componentes, que ajudam a encapsular código e estado. O uso de componentes facilita a construção de interfaces de usuário mais complexas. Por facilitar, se você usa o JavaScript, é ideal a utilização do React. O React também ajuda a criar aplicações web dinâmicas, o que é muito útil em empresas de grande porte como a Serasa.
+
 >Node.js<
 Com ele, é possível levar o JavaScript até o backend. Muitas empresas já utilizam o JavaScript frontend, e agora o backend com a ajuda do Node.js. Sua grande vantagem é a criação de APIs, exigindo poucos recursos de hardware. 
 
